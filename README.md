@@ -2,7 +2,8 @@
 
 **ML researcher** · Researcher, Center for Computational & Data Sciences (CCDS), Independent University, Bangladesh<br>
 <img src="assets/paper.svg" width="18" height="18"> **ECCV 2026 publication** · 3 more papers under review (WACV 2027, ACL Rolling Review, Pattern Recognition)<br>
-<img src="assets/cap.svg" width="18" height="18"> **Seeking a fully funded PhD position, Fall 2027**
+<img src="assets/cap.svg" width="18" height="18"> **Seeking a fully funded PhD position, Fall 2027**<br>
+<img src="assets/sparkle.svg" width="18" height="18"> Off the clock: **papercraft** and **LEGO Technic**
 
 ---
 
@@ -39,3 +40,4 @@ ezharuddin00@gmail.com
 <p align="center">
   <img src="assets/papercraft.gif" width="584" alt="isometric pixel art: a paper net curls, crease by crease, into a light purple Porsche 911 GT3 RS, then drives off">
 </p>
+<p align="center"><sub>When I am not training models, I fold paper cars and build LEGO Technic. So here is a papercraft 911 GT3 RS, folded crease by crease.</sub></p>
