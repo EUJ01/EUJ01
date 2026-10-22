@@ -41,3 +41,4 @@ ezharuddin00@gmail.com
   <img src="assets/papercraft.gif" width="584" alt="isometric pixel art: a paper net curls, crease by crease, into a light purple Porsche 911 GT3 RS, then drives off">
 </p>
 <p align="center"><sub>When I am not training models, I fold paper cars and build LEGO Technic. So here is a papercraft 911 GT3 RS, folded crease by crease.</sub></p>
+<p align="center"><sub>Profile picture: Dorime doggo by <a href="https://www.instagram.com/artsy_marcus_l/">@Artsy_Marcus_L</a></sub></p>
